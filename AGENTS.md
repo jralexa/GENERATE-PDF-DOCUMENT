@@ -246,4 +246,4 @@ protected function isAccessible(User $user, ?string $path = null): bool
 </laravel-boost-guidelines>
 
 
-testing purposes only
+try again
